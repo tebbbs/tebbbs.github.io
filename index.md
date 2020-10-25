@@ -4,6 +4,6 @@
 <h1 style="font-family: Comic Sans MS;"> Happy Birthday Dad!!</h1>
 </marquee>
 
-![](marky.jpg)
+<img src="marky.jpg">
 
 </div>
