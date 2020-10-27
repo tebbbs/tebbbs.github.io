@@ -1,6 +1,6 @@
 ## Struggling to stream £9250 Netflix to your top floor room in Selly? Need better WiFi?
 
-This post got me banned from fab 'n' fresh for some unknown reason, but hey, we move. I haven't been paid by TP-Link for this/make money in any way, I just hate to see people struggling with WiFi 🤷‍♂️
+This post got me banned from fab 'n' fresh for some unknown reason, but hey, we move. I haven't been paid by TP-Link for this and I don't make money off it in any way, I just hate to see people struggling with WiFi 🤷‍♂️
 
 ---
 
