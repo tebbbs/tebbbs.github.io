@@ -31,8 +31,8 @@ Thank you for coming to my TED talk
 
 I realise this is quite complicated and I may not have done the best job explaining it so feel free to drop me a message and I’ll see if I can help (Joe Tebbett on Facebook). Also for any other geeks, if I’ve got something wrong please do let me know lol. The stuff we got in our house cost about £130 total as of time of writing, between 8 that’s £16.25 which is admittedly quite a lot but it’s worth it to get the speeds you’re paying Virgin for, even if it should be included with the contract in an ideal world. 
   
-  ### Shopping List
-  I recommend using Amazon as you can return things if they don't work for you, which is what I did with a couple of devices before I settled on this setup
+### Shopping List
+I recommend using Amazon as you can return things if they don't work for you, which is what I did with a couple of devices before I settled on this setup
   
 - [TP-Link router](https://www.amazon.co.uk/CSL-Ethernet-Gigabit-1000Mbit-Broadband/dp/B014DW3VI8/ref=sr_1_3?dchild=1&keywords=flat+cat6+cable&qid=1602410401&sr=8-3) (£65.00)
 
